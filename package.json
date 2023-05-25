@@ -9,6 +9,7 @@
     "start": "react-native start",
     "test": "jest"
   },
+  "main": "engine/index.js",
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.71.8"
