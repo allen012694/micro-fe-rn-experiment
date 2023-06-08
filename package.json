@@ -1,5 +1,5 @@
 {
-  "name": "engine",
+  "name": "mini_app_micro_fe",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,8 +9,8 @@
     "start": "react-native start",
     "test": "jest"
   },
-  "main": "engine/index.js",
   "dependencies": {
+    "app_engine_micro_fe": "file:../app_engine_micro_fe-0.0.1.tgz",
     "react": "18.2.0",
     "react-native": "0.71.8"
   },
